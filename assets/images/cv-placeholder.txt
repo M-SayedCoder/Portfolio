@@ -1,0 +1,8 @@
+CV Placeholder
+===============
+
+To complete your portfolio, please add your CV/Resume as:
+- assets/cv.pdf
+
+You can download a sample CV template and replace it with your information.
+The Download CV button in the Hero section will link to this file.
